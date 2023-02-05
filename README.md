@@ -1,7 +1,8 @@
   # Requirements Management Checklist
   
   ### Requirements Management Plan, Requirements Gathering Template and Traceability Matrix
-  
+
+![image](https://user-images.githubusercontent.com/57412626/216832625-b040bfc8-8c99-4596-8008-87f944ae8a8a.png)
 
   
  	Does the project have a Requirements Traceability Matrix to manage and trace requirements? 
