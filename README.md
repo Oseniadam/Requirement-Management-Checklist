@@ -3,7 +3,6 @@
   Requirements Management checklist
   
   ### ** Requirements Management Plan, Requirements Gathering Template and Traceability Matrix** 
-  
   Does the project have a documented Requirements Management Plan? 
   
  	Does the project have a Requirements Traceability Matrix to manage and trace requirements? 
