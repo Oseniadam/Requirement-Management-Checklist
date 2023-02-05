@@ -1,8 +1,6 @@
   # Requirement-Checklist
 
   Requirements Management checklist
-
-  You can use this checklist along with the 
   
   ### ** Requirements Management Plan, Requirements Gathering Template and Traceability Matrix** 
   
