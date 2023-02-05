@@ -39,11 +39,7 @@
   
 # Requirements Management Plan Template 
 
-Use this template to capture all of the key information you need. 
-
-It is related to the **Scope Management Plan** and can be combined with it on small projects.
-
-The document is created with inputs from the Project Charter, development approach and the Quality Management Plan. 
+It is related to the **Scope Management Plan** created with inputs from the **Project Charter**, development approach and the **Quality Management Plan**. 
 
 It forms part of the **Project Management Plan** and aligns with **change management, scope management**, the **release and iteration plan, development approach and the requirements backlog**. 
 
