@@ -4,7 +4,7 @@
 
   You can use this checklist along with the 
   
-  ** Requirements Management Plan, Requirements Gathering Template and Traceability Matrix** 
+  ### ** Requirements Management Plan, Requirements Gathering Template and Traceability Matrix** 
   
   Does the project have a documented Requirements Management Plan? 
   
