@@ -1,7 +1,7 @@
   # Requirements Management Checklist
   
   **Requirements Management Plan, Requirements Gathering Template** and **Traceability Matrix** is related to the 
-  **Scope Management Plan** created with inputs from the **Project Charter**, **development approach** and **Quality Management Plan**. 
+  **Scope Management Plan** created with inputs from the **Project Charter**, **Development Approach** and **Quality Management Plan**. 
 
 It forms part of the **Project Management Plan** and aligns with **change management, scope management**, the **release** and **iteration plan, development approach** and the **requirements backlog**. 
 
