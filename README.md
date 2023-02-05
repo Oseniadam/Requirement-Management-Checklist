@@ -40,7 +40,6 @@ The completed plan drives the **Requirements log** and **Traceability Matrix**, 
   
  	Have you identified all hardware, software, and communication interfaces? 
  
-[burndown-chart-template.ods](https://github.com/Oseniadam/Requirement-Checklist/files/10611962/burndown-chart-template.ods)
 
 
 
