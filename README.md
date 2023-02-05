@@ -5,7 +5,7 @@
 
 It forms part of the **Project Management Plan** and aligns with **change management, scope management**, the **release** and **iteration plan, development approach** and the **requirements backlog**. 
 
-The completed plan drives the Requirements **log and Traceability Matrix**, and is and input to the **Risk Register and Quality Management Plan**.
+The completed plan drives the **Requirements log** and **Traceability Matrix**, and is and input to the **Risk Register** and **Quality Management Plan**.
 ![image](https://user-images.githubusercontent.com/57412626/216832625-b040bfc8-8c99-4596-8008-87f944ae8a8a.png)
   
  	Does the project have a Requirements Traceability Matrix to manage and trace requirements? 
@@ -40,6 +40,7 @@ The completed plan drives the Requirements **log and Traceability Matrix**, and 
   
  	Have you identified all hardware, software, and communication interfaces? 
  
+[burndown-chart-template.ods](https://github.com/Oseniadam/Requirement-Checklist/files/10611962/burndown-chart-template.ods)
 
 
 
